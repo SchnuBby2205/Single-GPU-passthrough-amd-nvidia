@@ -67,3 +67,6 @@ Check out these amazing people who made this guide possible !
 - https://gitlab.com/risingprismtv
 - https://gitlab.com/YuriAlek
 - https://passthroughpo.st/
+
+
+https://blandmanstudios.medium.com/tutorial-the-ultimate-linux-laptop-for-pc-gamers-feat-kvm-and-vfio-dee521850385
